@@ -9,7 +9,7 @@ const Footer = () => {
         {/* {intro} */}
         <div style={{width: '400px'}}>
           <h5><i className='fa-solid fa music me-2'></i>Media Player</h5>
-          <p>Designed and built with all the love in the world by the Luminar team with the help of our contributors.</p>
+          <p>Designed and built by Vimal with the help of my contributors.</p>
           <p>Code licensed MIT, docs CC BY 3.0</p>
           <p>Currently v5.3.3.</p>
         </div>
